@@ -94,6 +94,10 @@ This will generate the production-ready files in the `dist` directory.
 
 Once deployed, the live site is available at [https://webweaver-28s4.onrender.com](https://webweaver-28s4.onrender.com).
 
+## Screenshots and Demo
+
+![Screenshot of WebWeaver](https://github.com/HitendraSinghRathore/webweaver/blob/main/screenshot.png?raw=true)
+
 ## Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
