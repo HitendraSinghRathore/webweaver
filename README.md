@@ -96,7 +96,19 @@ Once deployed, the live site is available at [https://webweaver-28s4.onrender.co
 
 ## Screenshots and Demo
 
-![Screenshot of WebWeaver](https://github.com/HitendraSinghRathore/webweaver/blob/main/screenshot.png?raw=true)
+![Screenshot of WebWeaver](https://github.com/HitendraSinghRathore/webweaver/blob/main/src/assets/image1.png)
+---
+![Screenshot of WebWeaver](https://github.com/HitendraSinghRathore/webweaver/blob/main/src/assets/image2.png)
+---
+![Screenshot of WebWeaver](https://github.com/HitendraSinghRathore/webweaver/blob/main/src/assets/image3.png)
+---
+![Screenshot of WebWeaver](https://github.com/HitendraSinghRathore/webweaver/blob/main/src/assets/image4.png)
+---
+![Screenshot of WebWeaver](https://github.com/HitendraSinghRathore/webweaver/blob/main/src/assets/image5.png)
+---
+![Screenshot of WebWeaver](https://github.com/HitendraSinghRathore/webweaver/blob/main/src/assets/image6.png)
+---
+
 
 ## Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
