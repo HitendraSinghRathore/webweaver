@@ -96,9 +96,7 @@ Once deployed, the live site is available at [https://webweaver-28s4.onrender.co
 
 ## Screenshots and Demo
 
-<video src="https://github.com/HitendraSinghRathore/webweaver/blob/main/src/assets/demo.mp4" width="640" height="360" controls>
-  Your browser does not support the video tag.
-</video>
+[Watch the Demo Video](https://github.com/HitendraSinghRathore/webweaver/blob/main/src/assets/demo.mp4?raw=true)
 
 ![Screenshot of WebWeaver](https://github.com/HitendraSinghRathore/webweaver/blob/main/src/assets/image1.png)
 ---
