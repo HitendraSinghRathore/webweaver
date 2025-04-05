@@ -1,0 +1,31 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+:root {
+  --primary-color: #bae8ff;
+  --background-color: #f9f9fc;
+  --light-bg: #eaf1f7;
+  --font-color: #333;
+  --font-family: Avenir, Helvetica, Arial, sans-serif;
+}
+body {
+  font-family: var(--font-family);
+  background-color: var(--background-color);
+  color: var(--font-color);
+}
+button {
+  background: white;
+  color: var(--font-color);
+  border-radius: 4px;
+  padding: 4px 8px;
+  cursor: pointer;
+  &:hover {
+    opacity: 0.9;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+  }
+  
+}
